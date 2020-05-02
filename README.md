@@ -1,4 +1,4 @@
-This is a predictive algoritm to estimate the CO2 emissions from vehicles based on features such as cylender, enginesize, etc.
+This is a predictive algoritm to estimate the CO2 emissions from vehicles based on features such as cylinder, enginesize, etc.
 The model is built using simple regression and multiple regression techniques and the model accuracy is evaluated.
 
 
